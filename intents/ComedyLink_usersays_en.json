@@ -1,0 +1,444 @@
+[
+  {
+    "id": "78fd5e24-ec7a-45e3-bb2f-baffcf99052d",
+    "data": [
+      {
+        "text": "hate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f1bcd22-e087-46ce-870e-7574617e9e6e",
+    "data": [
+      {
+        "text": "stupid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae121554-a634-4dee-951a-ec9f79931abb",
+    "data": [
+      {
+        "text": "sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea4a1392-fc63-4370-b8cf-dde68dcd3444",
+    "data": [
+      {
+        "text": "bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "deade95b-1711-4334-87f3-d0d33cfa1915",
+    "data": [
+      {
+        "text": "this is bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf2b48c6-d054-4b27-b651-01bbc926d06b",
+    "data": [
+      {
+        "text": "this is weird",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c367f7b-516c-4c67-a24f-2dee45b3542c",
+    "data": [
+      {
+        "text": "that\u0027s odd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c01f4fa7-24e1-4425-bdef-3249272ebcfd",
+    "data": [
+      {
+        "text": "that\u0027s funny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a18a50f-42a1-4299-8fea-a27840665d88",
+    "data": [
+      {
+        "text": "funny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f6886b0-4794-4d17-b462-76d7141248e7",
+    "data": [
+      {
+        "text": "biden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67fb52c3-e230-42e2-b31d-f63fc56cefd0",
+    "data": [
+      {
+        "text": "trump",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45a16a43-a32b-45bf-884a-9e141c5e6ba6",
+    "data": [
+      {
+        "text": "anti vaxxer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67a475ea-9990-48bd-8266-7e67f4bde85e",
+    "data": [
+      {
+        "text": "anti-vax",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4a3ea53-0fac-42e3-ac97-048153ae2855",
+    "data": [
+      {
+        "text": "vaccine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e352cec7-dd41-4ea5-84c9-bcdc7077663a",
+    "data": [
+      {
+        "text": "social distancing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b3e32ca-a6e4-4277-9309-3549cdff0d64",
+    "data": [
+      {
+        "text": "wear a mask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73acca7e-374d-49e9-8fec-4a7be2ee6552",
+    "data": [
+      {
+        "text": "contact tracing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50feba61-3c33-4560-8a13-73ad2809b115",
+    "data": [
+      {
+        "text": "that\u0027s a bummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebd0311d-ef78-45e9-8e3b-13122fbd615d",
+    "data": [
+      {
+        "text": "remote work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8e0cd7f-a1f8-49af-8611-4e82bd078e7c",
+    "data": [
+      {
+        "text": "remote learning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ddc2569-227e-4e66-86de-b8b77713ce1e",
+    "data": [
+      {
+        "text": "quarantine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77d84d09-74fe-4201-bcda-1bb3e567d30e",
+    "data": [
+      {
+        "text": "ugh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9978892-61f4-49d4-ba36-7930bf181600",
+    "data": [
+      {
+        "text": "covid19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d0f37f8-ba7d-4112-a5d0-a57a82b3c7c8",
+    "data": [
+      {
+        "text": "corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae74f977-a1ac-4ae9-9b4b-d7329cb90dca",
+    "data": [
+      {
+        "text": "covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bea3273-6951-42c3-ae31-59340cefd527",
+    "data": [
+      {
+        "text": "coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98c8dca3-20d4-437d-af52-f79f31ec6a06",
+    "data": [
+      {
+        "text": "lmao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae55edf5-a7ca-47c7-9c2f-240a3ab6f26e",
+    "data": [
+      {
+        "text": "lol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3772ffc3-fe01-4336-b8c0-b1be073110a0",
+    "data": [
+      {
+        "text": "this is terrible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90de48e1-fe17-4142-a347-e1cc2c3b2ab7",
+    "data": [
+      {
+        "text": "that\u0027s not fair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eca80596-16b7-4f31-998c-85a66c68b665",
+    "data": [
+      {
+        "text": "this stinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec0228b4-5ab8-4655-96f8-870a4b2ef717",
+    "data": [
+      {
+        "text": "i\u0027m sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c7d0b01-c330-46e6-a8e6-2d52fe03fc3b",
+    "data": [
+      {
+        "text": "that\u0027s too bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c37f754-9a85-4eff-b3cd-842a05a6173f",
+    "data": [
+      {
+        "text": "that sucks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

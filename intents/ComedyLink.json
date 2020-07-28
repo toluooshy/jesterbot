@@ -1,0 +1,64 @@
+{
+  "id": "d739c308-ead5-4cb4-a619-3634d98eecc6",
+  "name": "ComedyLink",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "https://youtu.be/WmIS_icNcLk",
+            "https://youtu.be/EFxNtTks9VU",
+            "https://youtu.be/t2teD6IV8js",
+            "https://youtu.be/LAx_3rFEZDM",
+            "https://youtu.be/DTaJjznuY74",
+            "https://youtu.be/Qwq9bDGmHQ8",
+            "https://youtu.be/Uk0mJSTatbw",
+            "https://youtu.be/FjLT-xI8_MA",
+            "https://youtu.be/Adz4l5qEpD4",
+            "https://youtu.be/dIjeJGWHAc8",
+            "https://youtu.be/roskT6Y_lvQ",
+            "https://youtu.be/ZkzJXUtBLHI",
+            "https://youtu.be/ypS_CKym5NQ",
+            "https://youtu.be/re7ztUy6SVw",
+            "https://youtu.be/vCQ8G-ZT2SY",
+            "https://youtu.be/oc6LDIkzS3M",
+            "https://youtu.be/qwFYHGfImfw",
+            "https://youtu.be/rNVl2z2nSUw",
+            "https://youtu.be/JPQ_uz6KgNY",
+            "https://youtu.be/BKh4nHHKXa0",
+            "https://youtu.be/DR4KmThaNH8",
+            "https://youtu.be/d3k861fymMw",
+            "https://youtu.be/6uq3EwlJWTs",
+            "https://youtu.be/ABp1GFJcRK8",
+            "https://youtu.be/vyWUFkVGAGg",
+            "https://youtu.be/LFasrNIqY1Q",
+            "https://youtu.be/5MfbrOQucb4",
+            "https://youtu.be/-mpTLlD1eQQ",
+            "https://youtu.be/UX2bnODw7ps",
+            "https://youtu.be/btpiBnpvGi4"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
